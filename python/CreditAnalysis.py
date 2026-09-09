@@ -80,7 +80,7 @@ final_df = df[
 "default payment next month"]]
 print(final_df.head())
 
-df.to_csv('c:/code/vscode/data/credit_risk_final.csv',index=False)
+df.to_csv('data/credit_risk_final.csv', index=False)
 
 
 
