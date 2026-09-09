@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-df = pd.read_csv('../data/default_creditrisk.csv')
+df = pd.read_csv('../data/default_creditrisk.xlsx')
 
 print(df.head()) ## uppar ka 5 rows print krke dikaye ga 
 
