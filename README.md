@@ -10,6 +10,13 @@ The objective is to identify customer segments and payment behaviors associated 
 
 ![Credit Risk & Customer Analytics Dashboard](dashboard/Dashboard.png)
 
+## Key Metrics
+
+- **Total Customers:** 2,000
+- **Total Defaulters:** 434
+- **Overall Default Rate:** 21.70%
+- **Analysis:** Customer demographics, payment behavior, credit utilization and repayment patterns
+
 ## Tools & Technologies
 
 - **Python**
@@ -44,8 +51,8 @@ The Python analysis creates:
 
 The dashboard highlights:
 
-- **Payment status is a major risk indicator**, with higher payment delays associated with higher default rates.
-- **Low credit-limit customers show a higher default rate** than the high credit-limit group.
+- Payment delays are strongly associated with higher default rates.
+- Customers with lower credit limits show higher default rates than customers with higher credit limits.
 - **Default rates vary across age groups and education categories.**
 - **Marital-status groups show differences in default rates.**
 - **Gender shows relatively similar default rates between the two groups.**
