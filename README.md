@@ -88,7 +88,7 @@ Run the analysis:
 python python/CreditAnalysis.py
 ```
 
-The script reads the dataset from the `data` folder, performs feature engineering and analysis, and creates `credit_risk_final.csv`.
+The script reads the dataset from the data folder, performs feature engineering and analysis, and generates credit_risk_final.csv in the data folder.
 
 ## Business Objective
 
